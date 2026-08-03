@@ -46,7 +46,7 @@ The `Churn` field is the target outcome and indicates whether a customer left th
 **Dataset source:**  
 https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
-Additional source and attribution information is available in [`Dataset/Dataset Source.md`](Dataset/Dataset%20Source.md).
+Additional source and attribution information is available in 📁 **[Dataset Source](Dataset/DatasetSource.md)**
 
 ---
 
