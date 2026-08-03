@@ -2,7 +2,6 @@
 
 ## Power BI Customer Retention and Risk-Segmentation Dashboard
 
-![Executive Dashboard](Dashboard%20Screenshots/Executive%20Dashboard.png)
 
 ## Project Overview
 
@@ -104,7 +103,7 @@ The executive dashboard provides a high-level view of customer churn and major c
 - Contract and internet-service churn heatmap
 - Interactive filters for contract, internet service, payment method, and tenure
 
-![Executive Dashboard](Dashboard%20Screenshots/Executive%20Dashboard.png)
+![Executive Dashboard](Dashboard-Screenshots/churn-overview.png)
 
 ---
 
@@ -136,7 +135,8 @@ The detailed customer table supports more targeted retention analysis by display
 - Monthly-charge group
 - Service count
 
-![Customer Risk Analysis](Dashboard%20Screenshots/Customer%20Risk%20Analysis.png)
+  
+![At-Risk Customers](Dashboard-Screenshots/at-risk-customers.png)
 
 ---
 
@@ -151,7 +151,7 @@ The tooltip displays:
 - Average Monthly Charge
 - Average Tenure
 
-![KPI Tooltip](Dashboard%20Screenshots/KPI%20Tooltip.png)
+![Customer Segment Tooltip](Dashboard-Screenshots/customer-segment-tooltip.png)
 
 ---
 
@@ -175,7 +175,7 @@ Each factor contributes points to the customer's total risk score. Customers are
 
 This score is an analytical segmentation created for the portfolio project. It should not be interpreted as a machine-learning prediction or as the exact probability that a customer will churn.
 
-The DAX calculations are documented in [`Documentation/DAX Measures.md`](Documentation/DAX%20Measures.md).
+The DAX calculations are documented in [DAX Measures](Documentation/DAXMeasures.md)
 
 ---
 
