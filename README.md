@@ -276,9 +276,7 @@ SWITCH(
 )
 ```
 
-Additional calculations are available in the [DAX documentation](Documentation/DAX%20Measures.md).
 
----
 
 ## Repository Structure
 
